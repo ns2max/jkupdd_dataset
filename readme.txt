@@ -1,3 +1,11 @@
+//----------------------------------------------------------------------------------------------------------------------------------
+The original article containing the databse (https://dl.dropbox.com/u/11997856/JKU/JKUPDD-Aug2013.zip) is broken as of this date.
+This is an EXACT copy of the original dataset.
+All credits go to the original authors and contributors
+//----------------------------------------------------------------------------------------------------------------------------------
+
+
+
 JKUPDD-Aug2013
 The Johannes Kepler University Patterns Development Database
 
